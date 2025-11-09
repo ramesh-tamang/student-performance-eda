@@ -13,7 +13,8 @@ logs/
 *.pyc
 __pycache__/
 
-# Ignore virtual environment
+# Ignore virtual environment 
+artifacts
 venv/
 ven/
 .env/
